@@ -16,9 +16,9 @@ This project covers **end-to-end ML deployment**:
 
 👉 [Click here to try the live demo](https://image-classifier-hb1g.onrender.com/)
 
-> ⏳ **Please wait 30–60 seconds on first load.**  
+> ⏳ **Please wait around 60 seconds on first load.**  
 > The app is hosted on Render’s free tier, so it spins down when inactive and needs time to restart.
-
+> Additionally, due to limited CPU power on the free hosting plan, request processing may take longer. Thank you for your patience.
 ---
 
 
